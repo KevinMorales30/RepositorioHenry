@@ -1,2 +1,2 @@
 # RepositorioHenry
-HomeWorrk M02 Terminal, Git y GitHud
+HomeWork M02 Terminal, Git y GitHud
